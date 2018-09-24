@@ -1,0 +1,7 @@
+.vscode/*
+*.code-workspace
+CMakeFiles/*
+*.CMake
+CMakeCache.txt
+Makefile
+bin/*
