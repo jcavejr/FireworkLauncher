@@ -1,8 +1,8 @@
 # FireworkLauncher
 
-This project will be a safe and fun way to launch fireworks from home.
+This project will be a fun way to simulate the launching of fireworks.
 
-The end goal is to connect your fireworks of choice into a raspberry pi, connect to the raspberry pi via bluetooth with either an app or a website, and launch the fireworks through the app/website.
+The end goal is to be able to create mock firework displays with ease.
 
 # Learning Outcomes
 By the end of this we plan to learn:
