@@ -1,5 +1,5 @@
 #include <iostream>
-#include "FireworkLauncher.h"
+#include "FireworkLauncherConfig.hpp"
 
 using namespace std;
 
